@@ -1,1 +1,9 @@
-{"updatedAt":"","totalEdificios":0,"totalPersonas":0,"totalDesaparecidos":0,"totalLocalizados":0,"totalFallecidos":0,"sinEdificio":0}
+{
+  "updatedAt": "2026-06-27T04:42:04.788Z",
+  "totalEdificios": 806,
+  "totalPersonas": 50216,
+  "totalDesaparecidos": 48219,
+  "totalLocalizados": 1997,
+  "totalFallecidos": 0,
+  "sinEdificio": 10526
+}
